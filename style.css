@@ -109,11 +109,17 @@
 .info-badge {
   background-color: #e3f2fd;
   border-radius: 20px;
-  padding: 10px 10px;
-  margin: 20px 10px;
+  padding: 10px 20px;
+  margin: 5px 5px;
   color: #5295de;
   font-weight: bold;
 }
+@media (max-width: 500px) {
+  .info-badge span{
+    display: block;
+  }
+}
+
 
 .itali-card h2 {
   font-size: 40px;
