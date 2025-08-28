@@ -64,9 +64,9 @@
 .welcome-syria p {
   text-align: center;
 
-  padding: 0 180px;
+  /* padding: 0 180px; */
   color: white;
-  font-size: 20px;
+  font-size: 18px;
   font-family: "Signika", sans-serif;
 }
 
